@@ -23,7 +23,7 @@ let students: Siswa[] = [
         nama: 'Bobby Lesley',
         nis: 102,
         tanggalLahir: new Date('2005-05-20'),
-        math: 70,
+        math: 100,
         english: 90,
         biology: 80
     },
